@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Eternity", "Eternity\Eternity.vcxproj", "{D942BBFE-C50F-160A-EE28-04B2DA544B98}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "EternityEngine", "EternityEngine\EternityEngine.vcxproj", "{AF04B74B-9BD2-AA51-8466-1B7870D386B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Dist|x64 = Dist|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D942BBFE-C50F-160A-EE28-04B2DA544B98}.Debug|x64.ActiveCfg = Debug|x64
+		{D942BBFE-C50F-160A-EE28-04B2DA544B98}.Debug|x64.Build.0 = Debug|x64
+		{D942BBFE-C50F-160A-EE28-04B2DA544B98}.Dist|x64.ActiveCfg = Dist|x64
+		{D942BBFE-C50F-160A-EE28-04B2DA544B98}.Dist|x64.Build.0 = Dist|x64
+		{D942BBFE-C50F-160A-EE28-04B2DA544B98}.Release|x64.ActiveCfg = Release|x64
+		{D942BBFE-C50F-160A-EE28-04B2DA544B98}.Release|x64.Build.0 = Release|x64
+		{AF04B74B-9BD2-AA51-8466-1B7870D386B6}.Debug|x64.ActiveCfg = Debug|x64
+		{AF04B74B-9BD2-AA51-8466-1B7870D386B6}.Debug|x64.Build.0 = Debug|x64
+		{AF04B74B-9BD2-AA51-8466-1B7870D386B6}.Dist|x64.ActiveCfg = Dist|x64
+		{AF04B74B-9BD2-AA51-8466-1B7870D386B6}.Dist|x64.Build.0 = Dist|x64
+		{AF04B74B-9BD2-AA51-8466-1B7870D386B6}.Release|x64.ActiveCfg = Release|x64
+		{AF04B74B-9BD2-AA51-8466-1B7870D386B6}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
